@@ -21,7 +21,7 @@
 
 <div dir="auto"><br>
   <img align="center" alt="Alberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Alberto-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="max-width: 100%; fill:#fff;">
+  <img align="center" alt="Alberto-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="max-width: 100%; fill:#fff;">
 </div>
 
 ----
