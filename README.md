@@ -3,7 +3,7 @@
 
 
 - 👋 Olá, eu sou o @albertokiyoshi sou um programador novato do 🇧🇷 
-- 🌱 Atualmente estou aprendendo Python e JavaScript
+- 🌱 Atualmente estou aprendendo Python
 - 📫 Como falar comigo, basta me procurar no twitter @albertokiyoshi 🐦
 
 ----
@@ -21,7 +21,7 @@
 
 <div dir="auto"><br>
   <img align="center" alt="Alberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Alberto-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="max-width: 100%; color:#f7a80d;">
+  <img align="center" alt="Alberto-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="max-width: 100%; fill:#fff;">
 </div>
 
 ----
