@@ -1,5 +1,5 @@
 # Olá! Eu sou o Alberto!
-<img align='right' src="https://giphy.com/embed/sULKEgDMX8LcI"  height="100">
+<img align='right' src="https://i.giphy.com/media/sULKEgDMX8LcI/giphy.webp"  height="100">
 
 
 - 👋 Olá, eu sou o @albertokiyoshi sou um programador novato do 🇧🇷 
