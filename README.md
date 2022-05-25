@@ -4,7 +4,6 @@
 
 - 👋 Olá, eu sou o @albertokiyoshi sou um programador novato do 🇧🇷 
 - 🌱 Atualmente estou aprendendo Python
-- 📫 Como falar comigo, basta me procurar no twitter @albertokiyoshi 🐦
 
 ----
   
