@@ -4,16 +4,16 @@
 
 - 👋 Olá, eu sou o @albertokiyoshi sou um programador novato do 🇧🇷 
 - 🌱 Atualmente estou aprendendo Python e JavaScript
-- 📫 Como falar comigo, basta me procurar no twitter @renatoljohn 🐦
+- 📫 Como falar comigo, basta me procurar no twitter @albertokiyoshi 🐦
 
 ----
-
+  
 ### Meus status
 
 <div>
-  <a href="https://github.com/renatoljohn%22%3E
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renatoljohn&count_private=true&include_all_commits=true&show_icons=true&&theme=vision-friendly-dark&icon_color=FFB401&bg_color=8D0D22&hide_border=true%22/%3E
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoljohn&show_icons=true&&theme=vision-friendly-dark&icon_color=FFB401&bg_color=8D0D22&hide_border=true&layout=compact%22/%3E
+  <a href="https://github.com/albertokiyoshi">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=albertokiyoshi&count_private=true&include_all_commits=true&show_icons=true&&theme=vision-friendly-dark&icon_color=FFB401&bg_color=8D0D22&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertokiyoshi&show_icons=true&&theme=vision-friendly-dark&icon_color=FFB401&bg_color=8D0D22&hide_border=true&layout=compact"/>
   </a>
 </div>
 
