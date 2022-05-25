@@ -30,4 +30,4 @@
 
 ### E os commit como tá?
 
-![Snake animation](https://github.com/renatoljohn/renatoljohn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/albertokiyoshi/albertokiyoshi/blob/output/github-contribution-grid-snake.svg)
