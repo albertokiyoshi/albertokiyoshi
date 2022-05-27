@@ -2,7 +2,7 @@
 <img align='right' src="https://i.giphy.com/media/sULKEgDMX8LcI/giphy.webp"  height="100">
 
 
-- 👋 Olá, eu sou o @albertokiyoshi sou um programador novato do 🇧🇷 
+- 👋 Olá, eu sou o @albertokiyoshi, sou um programador novato do 🇧🇷 
 - 🌱 Atualmente estou aprendendo Python
 
 ----
